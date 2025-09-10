@@ -1,0 +1,7 @@
+### 1.配置cuda,cudann
+
+### 2.配置git：
+git add .	# 把当前目录添加至暂存区
+git commit -m "Add entry for 2025-09-xx"	# 提交，写备注
+git push origin master	# 推送到github
+git push这步鉴权失败
